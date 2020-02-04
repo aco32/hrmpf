@@ -89,6 +89,7 @@ iptables
 iptraf-ng
 iputils
 iw
+iwd
 jnettop
 ldns
 lft
